@@ -1,3 +1,3 @@
 <?php
 
-echo "xin chào";
+echo "xin lỗi";
